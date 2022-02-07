@@ -17,4 +17,6 @@
     <string name="back_to_shop">Back to shop</string>
     <string name="buy_gold">Buy gold + 50000</string>
     <string name="successful_purchase">Successful_purchase</string>
+    <string name="box">BOX</string>
+    <string name="_999999">999999</string>
 </resources>
